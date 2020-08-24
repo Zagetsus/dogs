@@ -3,7 +3,7 @@ import Styles from './Footer.module.css'
 // import { Container } from './styles';
 
 const Footer = () => {
-  return <div className={Styles.header} >Footer</div>;
+  return <div className={Styles.header} ></div>;
 }
 
 export default Footer;
